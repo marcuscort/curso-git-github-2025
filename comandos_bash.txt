@@ -1,3 +1,5 @@
 ls - lista o que tem no diretório
 cd - muda o diretório
 pwd - caminho absoluto de onde estou
+cat - exibe conteúdo do arquivo 
+rm - removo arquivo do diretorio
