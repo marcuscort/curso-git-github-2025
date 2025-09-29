@@ -4,3 +4,5 @@ pwd - caminho absoluto de onde estou
 cat - exibe conteúdo do arquivo 
 rm - removo arquivo do diretório
 rm -rf -> remove de forma recursiva e forçada todos os diretorios
+
+teste
