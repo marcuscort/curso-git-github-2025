@@ -3,3 +3,5 @@ git status -> mostra po status do trabalho
 git add -> adiciona arquivo para ser commitado
 git commit -, "msg" -> faz commid para ser commitado
 git log -> mostra todos os commits
+
+teste
