@@ -1,7 +1,8 @@
-git init . -> cria um repo git na pasta atual 123
-git status -> mostra po status do trabalho 456
+git init . -> cria um repo git na pasta atual 456
+git status -> mostra po status do trabalho 789
 git add -> adiciona arquivo para ser commitado
 git commit -, "msg" -> faz commid para ser commitado
 git log -> mostra todos os commits
 
-teste beleza
+teste 321
+>>>>>>> ana
