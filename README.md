@@ -22,3 +22,4 @@ Pessoas participantes:
 
 * Marcus
 
+Se liga no nosso canal do Youtube e no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025
